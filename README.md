@@ -12,7 +12,7 @@ Folder structure and content
 
 Contact 
 --------
-Further information or inquiries can be directed to: 
+Questions or further inquiries can be directed to: 
 <ul>
 <li>Rune N. Rasmussen (E: runerasmussen@dandrite.au.dk)
 <li>Akihiro Matsumoto (E: aki.matsumoto@dandrite.au.dk)
