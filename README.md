@@ -13,8 +13,8 @@ The subfolders contain data from a given visual cortical area obtained from eith
 
 Within each subfolder (wild-type and Frmd7tm) is a .mat file containing several data matrices:
 <ul>
-<li> "Cells_master_RR" contain average tuning curves of all visually responsive and reliable (RR) cells at 10 and 40 <span>&#176;</span>/s
-<li> "Cells_master_RR_traces_10ds/40ds" contain average Ca<sup>2+</sup> response traces of all RR cells at 10 or 40 <span>&#176;</span>/s
+<li> "Cells_master_RR" contain tuning curves of all visually responsive and reliable (RR) cells at 10 and 40 <span>&#176;</span>/s
+<li> "Cells_master_RR_traces_10ds/40ds" contain Ca<sup>2+</sup> response traces of all RR cells at 10 or 40 <span>&#176;</span>/s
 <li> "StimOrder" contains a string of the ordered stimulus conditions   
 </ul>
 
