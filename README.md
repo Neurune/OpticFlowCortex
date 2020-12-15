@@ -8,7 +8,9 @@ PASTE DOI LINK TO PUBLICATION HERE.
 Folder structure and content
 --------
 The main folders contain data obtained from the four visual cortical areas sampled from: V1, RL/A, AM, and PM. 
-<br>
+
+The subfolders contain data from a given visual cortical area obtained from either wild-type or Frmd7tm mice.
+
 Within each subfolder (wild-type and Frmd7tm) is a .mat file containing several data matrices:
 <ul>
 <li> "Cells_master_RR" contain average tuning curves of all visually responsive and reliable (RR) cells at 10 and 40 deg/s
