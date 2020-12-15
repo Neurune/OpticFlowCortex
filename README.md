@@ -7,8 +7,9 @@ PASTE DOI LINK TO PUBLICATION HERE.
 
 Folder structure and content
 --------
-% Add brief description of folder organization.
-<br> 
+The main folders contain data obtained from the four visual cortical areas sampled from: V1, RL/A, AM, and PM. 
+<br>
+Within each subfolder (wild-type and Frmd7tm) is a .mat file containing several data matrices:
 
 Contact 
 --------
