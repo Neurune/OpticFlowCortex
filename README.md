@@ -12,5 +12,9 @@ Folder structure and content
 
 Contact 
 --------
-Further information or inquiries can be directed to Rune N. Rasmussen (E: runerasmussen@dandrite.au.dk), Akihiro Matsumoto (E: aki.matsumoto@dandrite.au.dk), or corresponding author Keisuke Yonehara (E: keisuke.yonehara@dandrite.au.dk).
-
+Further information or inquiries can be directed to: 
+<ul>
+<li>Rune N. Rasmussen (E: runerasmussen@dandrite.au.dk)
+<li>Akihiro Matsumoto (E: aki.matsumoto@dandrite.au.dk)
+<li>Keisuke Yonehara (E: keisuke.yonehara@dandrite.au.dk)
+<ul>
