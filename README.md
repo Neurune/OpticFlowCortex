@@ -4,3 +4,4 @@ This repository contains the original data and analysis code for the paper "Bino
 
 PASTE LINK TO ONLINE VERSION OF PUBLICATION HERE.
 
+% Add brief description of folder organization.
