@@ -1,8 +1,8 @@
 # Optic Flow Encoding by Neurons in the Visual Cortex
 
-This repository contains primary data and analysis code for the paper <b>"Binocular Integration of Retinal Motion Information Underlies Optic Flow Processing by the Cortex"</b> by Rasmussen and Matsumoto et al. (2020, Current Biology, <i>In Press</i>).
+This repository contains primary data and analysis code for the paper <b>"Binocular Integration of Retinal Motion Information Underlies Optic Flow Processing by the Cortex"</b> by Rasmussen and Matsumoto et al. (2021, Current Biology).
 
-PASTE DOI LINK TO PUBLICATION HERE.
+[Link to publication](https://doi.org/10.1016/j.cub.2020.12.034)
 <br> 
 
 Folder structure and content
@@ -22,7 +22,7 @@ Contact
 --------
 Questions or further inquiries can be directed to: 
 <ul>
-<li>Rune N. Rasmussen (E: runerasmussen@dandrite.au.dk)
+<li>Rune N. Rasmussen (E: rune.nguyen.rasmussen@sund.ku.dk)
 <li>Akihiro Matsumoto (E: aki.matsumoto@dandrite.au.dk)
 <li>Keisuke Yonehara (E: keisuke.yonehara@dandrite.au.dk)
 <ul>
